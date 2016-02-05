@@ -265,13 +265,6 @@ QToolButton::menu-button {
     background-color: #333333;
 }
 
-QToolButton::left-arrow {
-    background: transparent url(images/arrow-left.png) center center no-repeat;
-}
-QToolButton::right-arrow {
-    background: transparent url(images/arrow-right.png) center center no-repeat;
-}
-
 QToolButton:hover,
 QToolButton::menu-button:hover {
     border-radius: 2px;
